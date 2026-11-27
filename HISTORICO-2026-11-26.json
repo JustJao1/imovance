@@ -1,0 +1,96 @@
+{
+  "repository": "JustJao1/imovance",
+  "snapshot": "bd2c47cfd074f903c4daa2ff62c740623643aed9",
+  "scope": "Histórico alcançável a partir do commit preservado, tal como retornado pela API GitHub; datas e autorias são metadados Git, não certificação jurídica.",
+  "complete": true,
+  "entries": [
+    {
+      "commit": "bd2c47cfd074f903c4daa2ff62c740623643aed9",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:11:57Z",
+      "committer_date": "2026-11-26T15:11:57Z",
+      "subject": "Identify Imovance project maintainer in application",
+      "signature_verified": false
+    },
+    {
+      "commit": "6107db629b57ed570d989501c7e52a5a11bf80de",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:11:54Z",
+      "committer_date": "2026-11-26T15:11:54Z",
+      "subject": "Identify Imovance project maintainer in application",
+      "signature_verified": false
+    },
+    {
+      "commit": "b23a710be3443bff3cbbc259765a458449587331",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:11:52Z",
+      "committer_date": "2026-11-26T15:11:52Z",
+      "subject": "Identify Imovance project maintainer in application",
+      "signature_verified": false
+    },
+    {
+      "commit": "448ef9e70bb43372b985891d324a533dbbb5b478",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:11:28Z",
+      "committer_date": "2026-11-26T15:11:28Z",
+      "subject": "Link official project ownership notice",
+      "signature_verified": false
+    },
+    {
+      "commit": "7822bb7da748bd8efb631afcbde1a966222dfcfd",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:11:25Z",
+      "committer_date": "2026-11-26T15:11:25Z",
+      "subject": "Document official project ownership and maintenance",
+      "signature_verified": false
+    },
+    {
+      "commit": "9a8e49a54baf7d5739967ffa883b40c4e9e032fa",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T15:01:59Z",
+      "committer_date": "2026-11-26T15:01:59Z",
+      "subject": "Identify project owner and maintainer",
+      "signature_verified": false
+    },
+    {
+      "commit": "81b3a2767b7084c4dff5ce305fae1a3bd8f5dac5",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T14:59:07Z",
+      "committer_date": "2026-11-26T14:59:07Z",
+      "subject": "Document architecture, API and local installation",
+      "signature_verified": false
+    },
+    {
+      "commit": "11a7360eb45a4650b4293f40f082f01fd54c75b2",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T14:58:36Z",
+      "committer_date": "2026-11-26T14:58:36Z",
+      "subject": "Add tests, local setup and CI configuration",
+      "signature_verified": false
+    },
+    {
+      "commit": "5ae45856a488c94315279bdac8061d7f117a7012",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T14:57:26Z",
+      "committer_date": "2026-11-26T14:57:26Z",
+      "subject": "Add Python API and SQLite domain layer",
+      "signature_verified": false
+    },
+    {
+      "commit": "bcfd06928c2c946e9b3ff58fc75d095afacd896b",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T14:55:21Z",
+      "committer_date": "2026-11-26T14:55:21Z",
+      "subject": "Publish approved Imovance interface",
+      "signature_verified": false
+    },
+    {
+      "commit": "bed3d8f0f2bf7073e91ad48c1d56c9bd9a689805",
+      "author_login": "JustJao1",
+      "author_date": "2026-11-26T14:54:45Z",
+      "committer_date": "2026-11-26T14:54:45Z",
+      "subject": "Initialize Imovance portfolio repository",
+      "signature_verified": false
+    }
+  ]
+}
