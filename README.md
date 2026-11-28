@@ -49,3 +49,18 @@ See [architecture and trade-offs](docs/architecture.md) and the [API reference](
 This is a functional portfolio project, not a production-ready property management service. The demo does not use the Python API and browser data is not shared across devices. Real payment and AI integrations require separate configuration and validation; the automated tests use mocks. External customer portals, real-time collaboration, file uploads, granular staff permissions, automated billing and WhatsApp delivery are outside the current scope. Do not expose the development server to the public internet or enter real personal or financial data into the demo. A production deployment requires additional security, backups, privacy and operational controls.
 
 Source distribution does not imply an open-source license or grant rights to the name or branding; no general reuse license has been selected.
+
+
+## Engineering evidence / Evidências de engenharia
+
+[Architecture, decisions and bilingual walkthrough / Arquitetura, decisões e demonstração bilíngue](docs/engineering-quality.md).
+
+Measured snapshot / Registro de 28/11/2026:
+
+PT: 15 testes aprovados; 91% de cobertura (linhas e ramificações no escopo instrumentado); contêiner e health check aprovados.
+
+EN: 15 tests passed; 91% branch-inclusive coverage in the instrumented scope; container and health check passed.
+
+[Actual GitHub Actions run / Execução real de CI](https://github.com/JustJao1/imovance/actions/runs/46110707421).
+
+[Portfolio evidence / Evidências no portfólio](https://justjao1.vercel.app/#engineering).
