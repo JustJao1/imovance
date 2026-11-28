@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"
+    volumes:
+      - imovance-data:/data
+    healthcheck:
+      test: ["CMD","python","-c","import urllib.request; urllib.request.urlopen('http://localhost:8000/demo',timeout=3).close()"]
+      interval: 5s
+      timeout: 4s
+      retries: 10
+volumes:
+  imovance-data:
